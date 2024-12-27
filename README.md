@@ -1,4 +1,4 @@
-# BLOCKCHAIN SMART CONTACTS
+# BLOCKCHAIN SMART CONTRACTS
 
 This project involves creating and deploying a smart contract on the Ethereum blockchain. The smart contract allows the owner to manage Ether funds by receiving Ether, withdrawing it, and checking the balance. The goal of this project is to demonstrate how to create, deploy, and interact with smart contracts using Ethereum, Web3.js, and MetaMask.
 
